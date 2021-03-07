@@ -1,5 +1,24 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="about pa-6">
+    <h1>About the todo app</h1>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+       molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+       numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+       optio, eaque rerum!
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+       molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+       numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+       optio, eaque rerum!
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+       molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+       numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+       optio, eaque rerum!
+    </p>
+
   </div>
 </template>
